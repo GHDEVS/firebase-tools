@@ -1,0 +1,1 @@
+- Adds test lab triggers to firebase deploy (#5011).
