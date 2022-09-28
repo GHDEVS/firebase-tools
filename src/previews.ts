@@ -25,7 +25,7 @@ export const previews: PreviewFlags = {
   emulatoruisnapshot: false,
   frameworkawareness: false,
   functionsparams: false,
-  skipdeployingnoopfunctions: false,
+  skipdeployingnoopfunctions: true,
 
   ...(configstore.get("previews") as Partial<PreviewFlags>),
 };
