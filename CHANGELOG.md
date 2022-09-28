@@ -1,1 +1,2 @@
 - Adds support for codebases in `firebase init functions` flow (#4965).
+- Enable detecting and skipping no-op function deploys (#5032).
